@@ -1,0 +1,58 @@
+@media (max-width: 1150px) {
+  .container{
+    width: 950px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .container{
+    width: 850px;
+  }
+  .sobre-web-design figcaption img{
+    width: 600px;
+  }
+}
+@media (max-width: 915px) {
+  body{
+    background-position: left -250px;
+    }
+  .container{
+    width: 600px;
+  }
+  .row{
+    flex-direction: column;
+  }
+  header nav{
+    margin: 30px 0;
+  }
+  footer .row{
+    flex-direction: row;
+    justify-content: center;
+  }
+  .sobre-web-design article {
+    width: 700px;
+  }
+  .sobre-web-design figcaption img {
+    width: 100%;
+    margin: 30px 0;
+  }
+}
+
+@media (max-width: 700px) {
+  .conaiter{
+    width: 400px;
+  }
+  .sobre-web-design article{
+    width: auto;
+  }
+  .sobre-web-design article h1{
+    color: blue;
+    content: center;
+  }
+}
+
+@media (max-width: 400px) {
+  .conaiter{
+    width: 290px;
+  }
+}
