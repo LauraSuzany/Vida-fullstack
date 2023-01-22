@@ -1,5 +1,5 @@
 header section{
-  width: 1400px;
+  width: 1024px;
   margin: 30px auto;
   display: flex;
   flex-direction: row;
@@ -17,4 +17,7 @@ header nav ul {
 header nav ul li a{
   padding: 0 15px;
   color: #3399cc;
+}
+footer ul li a{
+  width: 1024px;
 }

@@ -1,8 +1,9 @@
 /*Font*/
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap');
+@import"https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap";
 /*Componets*/
 @import url("./header.css");
 @import url("./buttons.css");
+@import url("./main.css");
 /*Reset CSS*/
 *{
   margin: 0;
@@ -13,9 +14,11 @@
   font-family: 'Source Sans Pro', sans-serif;
   vertical-align: baseline;
   text-decoration: none;
+  font-weight: 300px;
+  vertical-align:baseline;
 }
 .container{
-  width: 1400px;
+  width: 1200px;
   margin: 30px auto;
   display: flex;
   flex-direction: column;
