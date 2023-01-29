@@ -1,122 +1,40 @@
-@media (max-width: 1700px) {
-  body {
-    background-size: 1025px;
+@media (min-width: 1024px ) and (min-height: 768px) {
+  body{
+    background-size: 570px;
   }
 }
 
-@media (max-width: 1500px) {
-  body {
-    background-size: 815px;
+@media (min-width: 1280px) and (min-height: 720px){
+  body{
+    background-size: 830px;
   }
 }
 
-@media (max-width: 1400px) {
-  body {
-    background-size: 815px;
-    background-color: #97dbed;
-  }
-}
-
-@media (max-width: 1300px) {
-  body {
-    background-size: 815px;
-  }
-}
-@media (max-width: 1236px) {
-  body {
-    background-size: 810px;
-  }
-}
-
-@media (max-width: 1200px) {
-  body {
-    background-size: 750px;
-  }
-}
-
-@media (max-width: 1181px) {
-  body {
-    background-size: 7px;
-  }
-}
-
-@media (max-width: 1000px) {
-  body {
+@media (min-width: 1280px) and (min-width: 800px){
+  body{
     background-size: 800px;
   }
 }
 
-@media (max-width: 1191px) {
-  body {
-    background-size: 810px;
-  }
-}
-@media (max-width: 1191px) {
-  body {
-    background-size: 750px;
+@media (min-width: 1366px) and (min-height: 768px){
+  body{
+    background-size: 760px;
   }
 }
 
-@media (max-width: 1172px) {
-  body {
-    background-size: 750px;
+@media (min-width: 1440px) and (min-height: 900px){
+  body{
+    background-size: 850px;
   }
 }
 
-@media (max-width: 806px) {
-  body {
-    background-size: 800px;
+@media (min-width: 1600px) and (min-height: 900px){
+  body{
+    background-size: 970px;
   }
 }
-
-@media (max-width: 876px) {
-  body {
-    background-size: 790px;
+@media (min-width: 1920px) and (min-height: 1080px){
+  body{
+    background-size: 1140px;
   }
 }
-
-@media (max-width: 926px) {
-  body {
-    background-size: 790px;
-  }
-}
-
-@media (max-width: 933px) {
-  body {
-    background-size: 790px;
-  }
-}
-@media (max-width: 990px) {
-  body {
-    background-size: 790px;
-  }
-}
-
-@media (max-width: 1070px) {
-  body {
-    background-size: 790px;
-  }
-}
-@media (max-width: 1117px) {
-  body {
-    background-size: 790px;
-  }
-}
-
-@media (max-width: 1137px) {
-  body {
-    background-size: 790px;
-  }
-}
-@media (max-width: 1154px) {
-  body {
-    background-size: 750px;
-  }
-}
-
-@media (max-width: 600px) {
-  body {
-    background-size: 750px;
-  }
-}
-

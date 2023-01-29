@@ -15,6 +15,7 @@ body{
   background-image: url("../images/bolha-background.png") ;
   background-repeat: no-repeat ;
   background-position:left center;
+  background-color: #6061c5;
 }
 
 .container{
