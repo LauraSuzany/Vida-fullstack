@@ -1,8 +1,10 @@
-header{
-  width: 1400px;
-  margin: 30px auto;
+header section{
+/*  width: 1024px;
+  
   display: flex;
-  flex-direction: row;
+  flex-direction: row; 
+  */
+  margin: auto;
   justify-content: space-between;
   align-items: center;
 }
@@ -10,7 +12,6 @@ header{
 header nav ul {
   display: flex;
   flex-direction: row;
-  list-style: none;
   align-items: center;
 }
 
@@ -18,3 +19,8 @@ header nav ul li a{
   padding: 0 15px;
   color: #3399cc;
 }
+/*
+footer ul li a{
+  width: 1024px;
+}
+*/

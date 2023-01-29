@@ -1,16 +1,11 @@
 /*Font*/
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap');
+@import"https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap";
 /*Componets*/
+@import url("./bootstrap.css"); 
 @import url("./header.css");
 @import url("./buttons.css");
-/*Reset CSS*/
-*{
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 0;
-  font: inherit;
-  font-family: 'Source Sans Pro', sans-serif;
-  vertical-align: baseline;
-  text-decoration: none;
-}
+@import url("./main.css");
+@import url("./footer.css");
+@import url("./responsive-background.css");
+@import url("./responsive-elements.css");
+

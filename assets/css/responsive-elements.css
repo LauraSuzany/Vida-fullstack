@@ -1,0 +1,274 @@
+@media (min-width: 1024px ) and (min-height: 768px) {
+  .container{
+    width: 900px;
+  }
+  .sobre-web-design figcaption img{
+    width: 550px;
+
+  }
+  .row{
+    width: 900px;
+
+  }
+}
+
+@media (min-width: 1280px) and (min-width: 720px){
+  .container{
+      width:1100px;
+  }
+
+  .sobre-web-design figcaption img{
+      width: 550px;
+  }
+
+  .row{
+      width: 1100px;
+  }
+}
+
+@media (max-width: 1280px) and (max-width: 800px){
+  .container{
+      width:1100px;
+      padding: 10px;
+  }
+
+  .sobre-web-design figcaption img{
+      width: 500px;
+  }
+
+  .row{
+      width: 1100px;
+  }
+}
+
+@media (min-width: 1366px) and (min-height: 768px){
+  .container{
+      width:1200px;
+  }
+
+  .sobre-web-design figcaption img{
+      width: 600px;
+      position: relative;
+  }
+
+  .row{
+      width: 1100px;
+  }
+}
+@media (min-width: 1440px) and (min-height: 900px){
+  .container{
+      width:1300px;
+  }
+  
+  .sobre-web-design figcaption img{
+      width: 750px;
+      position: relative;
+  }
+  .sobre-web-design article {
+    width: 600px;
+  }
+
+  .row{
+      width: 1300px;
+  }
+  nav ul li a{
+    font-size: 24px;
+  }
+  section article {
+    font-size: 20px;    
+  }
+  section article a {
+    font-size: 24px;    
+  }
+}
+
+@media (min-width: 1600px) and (min-height: 900px){
+
+  .container{
+    width:1400px;
+}
+  .sobre-web-design figcaption img{
+      width: 750px;
+      position: relative;
+  }
+  .sobre-web-design article {
+    width: 600px;
+  }
+
+  .row{
+      width: 1400px;
+  }
+
+  nav ul li a{
+    font-size: 24px;
+  }
+
+  footer ul li a img{
+    
+    width: 50px;
+  }
+
+  section article {
+    font-size: 20px;    
+  }
+
+  section article a {
+    font-size: 24px;    
+  }
+}
+
+@media (min-width: 1920px) and (min-height: 1080px){
+
+  .container{
+    width:1700px;
+    padding: auto;
+}
+  .sobre-web-design figcaption img{
+      width: 960px;
+      position: relative;
+  }
+  .sobre-web-design article {
+    width: 700px;
+    padding-bottom: 30px;
+  }
+
+  .row{
+      width: 1700px;
+      padding: auto;
+  }
+
+  nav ul li a{
+    font-size: 30px;
+   
+  }
+
+  footer ul li a img{
+    width: 50px;
+
+  }
+
+  section article {
+    font-size: 30px;    
+  }
+
+  section article a {
+    font-size: 34px;    
+  }
+}
+
+@media (max-width: 375px) and (max-height: 667px){
+
+  .container{
+    width:220px;
+    text-align: center;
+  }
+  .sobre-web-design figcaption img{
+      width: 300px;
+      position: relative;
+  }
+
+  .sobre-web-design article {
+    width: 220px;
+    padding-bottom: 30px;
+  }
+
+  .row {
+      width: 200px;
+      flex-direction: column;
+  }
+
+  header nav ul {
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    border-radius:20px;
+  }
+
+  header nav ul li a{
+   line-height: 40px;
+  }
+}
+
+@media (max-width: 360px) and (max-height: 740px){
+  .container{
+    width:240px;
+    text-align: center;
+  }
+
+  .sobre-web-design figcaption img{
+      width: 300px;
+      position: relative;
+  }
+
+  .sobre-web-design article {
+    width: 220px;
+    padding-bottom: 30px;
+  }
+
+  .row {
+      width: 240px;
+      flex-direction: column;
+  }
+
+  header nav ul {
+    display: flex;
+    flex-direction: column;
+    background-color: azure;
+    border-radius:20px;
+  }
+
+  header nav ul li a{
+   line-height: 40px;
+  }
+}
+
+@media (max-width: 820px) and (max-height: 1180px){
+  .container{
+    width:600px;
+    
+  }
+  .sobre-web-design figcaption img{
+      width: 500px;
+      position: relative;
+  }
+
+
+  .row {
+      width: 600px;
+  }
+
+  header nav ul li a{
+   line-height: 40px;
+  }
+}
+
+@media (max-width: 820px) and (max-height: 1024px){
+  .container{
+    width:240px;
+    text-align: center;
+  }
+  .sobre-web-design figcaption img{
+      width: 300px;
+      position: relative;
+  }
+
+  .sobre-web-design article {
+    width: 220px;
+    padding-bottom: 30px;
+  }
+
+  .row {
+      width: 240px;
+      flex-direction: column;
+  }
+  nav ul li a{
+    font-size: 24px;
+  }
+
+  section article {
+    font-size: 24px;    
+  }
+  .sobre-web-design article {
+    width: 600px;
+  }
+}
